@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "titel": "Welcome party !",
+      "body": "slsslskl kdkds",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "titel": "Web dev top tips",
+      "body": "slsslskl kdkds",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
